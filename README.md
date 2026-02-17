@@ -48,10 +48,7 @@ numpy
 ```
 
 ## Usage
-1. Open `FakeNewsDetection.ipynb` in Jupyter:
-   ```
-   jupyter notebook FakeNewsDetection.ipynb
-   ```
+1. Open `FakeNewsDetection.ipynb'
 2. Run all cells to preprocess data, train models, and view results (confusion matrices, metrics).
 3. Predict on new text:
    ```python
